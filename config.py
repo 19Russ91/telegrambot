@@ -1,0 +1,6 @@
+token = '438295307:AAENeu-ntMGIw7XqK4Xz-fmbqMCIozbI8kE'
+my_chat_id = '-1001388010810'
+#url = 'http://www.mocky.io/v2/5aa3a3bc310000ff0f26e291'
+#string ='test1'
+url = 'http://www.mocky.io/v2/5aa8f475320000971f1659e7'
+string = '403'

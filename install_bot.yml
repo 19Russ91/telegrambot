@@ -1,0 +1,7 @@
+- hosts: group name
+  tasks:
+
+  - name: Clone repo with telegram bot.
+    sudo: yes
+    git: repo=https://github.com/19Russ91/telegrambot.git dest=/home/{{user}}/TelegrammBot key_file=/home/ubuntu/.ssh/id_rsa accept_hostkey=yes force=yes
+    
